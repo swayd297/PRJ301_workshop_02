@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/trann/OneDrive/Documents/PRJ301/Code/Workshop02_TranNhatDang/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/trann/OneDrive/Documents/PRJ301/Code/Workshop02_TranNhatDang/src/java/controller/SearchMobileServlet.java</file>
+            <file>file:/C:/Users/trann/OneDrive/Documents/PRJ301/Code/Workshop02_TranNhatDang/src/java/model/Mobile.java</file>
+            <file>file:/C:/Users/trann/OneDrive/Documents/PRJ301/Code/Workshop02_TranNhatDang/src/java/model/User.java</file>
+            <file>file:/C:/Users/trann/OneDrive/Documents/PRJ301/Code/Workshop02_TranNhatDang/web/index.jsp</file>
+            <file>file:/C:/Users/trann/OneDrive/Documents/PRJ301/Code/Workshop02_TranNhatDang/web/jsp/user/home.jsp</file>
+            <file>file:/C:/Users/trann/OneDrive/Documents/PRJ301/Code/Workshop02_TranNhatDang/src/java/dal/UserDAO.java</file>
+            <file>file:/C:/Users/trann/OneDrive/Documents/PRJ301/Code/Workshop02_TranNhatDang/src/java/dal/MobileDAO.java</file>
+            <file>file:/C:/Users/trann/OneDrive/Documents/PRJ301/Code/Workshop02_TranNhatDang/src/java/util/DBContext.java</file>
+            <file>file:/C:/Users/trann/OneDrive/Documents/PRJ301/Code/Workshop02_TranNhatDang/web/jsp/staff/home.jsp</file>
+            <file>file:/C:/Users/trann/OneDrive/Documents/PRJ301/Code/Workshop02_TranNhatDang/src/java/controller/DeleteMobileServlet.java</file>
+            <file>file:/C:/Users/trann/OneDrive/Documents/PRJ301/Code/Workshop02_TranNhatDang/src/java/util/TestConnection.java</file>
+            <file>file:/C:/Users/trann/OneDrive/Documents/PRJ301/Code/Workshop02_TranNhatDang/src/java/controller/LoginServlet.java</file>
+        </group>
+    </open-files>
+</project-private>
